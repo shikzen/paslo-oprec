@@ -1,8 +1,0 @@
-name: app
-dependencies:
-  - pandas
-  - streamlit
-  - numpy
-  - pip
-  - pip:
-    - plotly-express
