@@ -63,7 +63,7 @@ with row0_1:
     st.title(":office: Public Administration Science Laboratory - Open Recruitment")
 with row0_2:
     st.text("")
-    st.subheader("Interactive Dashboard by [Virgilnr](https://twitter.com/virgilnrf)")
+    st.subheader("Interactive Dashboard by [Virgilnr](https://github.com/virgilnr)")
 st.markdown("##")
 with row0_1:
     st.markdown("Welcome to the Interactive Dashboard of PASL Oprec. This dashboard was made to make ease of the proccess of analysis from three perspective: Quantitaively, Qualitatively, and Fundamentally. I hope the data will be clear as sunshine :sun_with_face:")
